@@ -1,0 +1,47 @@
+import java.util.*;
+
+class Dcoder
+
+ {
+
+   public static void main(String args[])
+
+   { 
+
+     HashMap<Integer,Integer>x=new  HashMap<>();
+
+     x.put(101,50000);
+
+     x.put(102,45000);
+
+     x.put(103,35000);
+
+     x.put(104,40000);
+
+     x.put(105,45000);
+
+     System.out.println(x);
+
+     Int value,key;
+
+     if(x.containsKey(103))
+
+     {
+
+       x.put(key,value=+5000);
+
+       System.out.println(x);
+
+       }
+
+       else
+
+       {
+
+       System.out.println("key not found");
+
+       }
+
+       }
+
+       }
